@@ -75,8 +75,8 @@ A jQuery plugin to add fade effect to your slider items
 
 # Documentation
 
-http://rohit-sharma.in/jquery-fade-slider
+http://sharmarohit.com/jquery-fade-slider/
 
 # Demo
 
-http://rohit-sharma.in/jquery-fade-slider/demo
+http://sharmarohit.com/jquery-fade-slider/demo
